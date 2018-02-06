@@ -1,0 +1,83 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.bg-lightgray {
+    background-color: #cccccc;
+}
+
+
+.label-red {
+    background-color: #ff6666;
+    color: #ffffff;
+}
+.btn-red {
+    background-color: #ff6666;
+    color: #ffffff;
+}
+.label-green {
+    background-color: #33cc33;
+    color: #ffffff;
+}
+.btn-green {
+    background-color: #33cc33;
+    color: #ffffff;
+}
+.label-green2 {
+    background-color: #bbffbb;
+    color: #ffffff;
+}
+.btn-green2 {
+    background-color: #99ff99;
+    color: #ffffff;
+}
+.label-blue {
+    background-color: #3333cc;
+    color: #ffffff;
+}
+.btn-blue {
+    background-color: #3333cc;
+    color: #ffffff;
+}
+.label-blue2 {
+    background-color: #bbbbff;
+    color: #ffffff;
+}
+.btn-blue2 {
+    background-color: #1111aa;
+    color: #ffffff;
+}
+.label-orange {
+    background-color: #ff9900;
+    color: #ffffff;
+}
+.btn-orange {
+    background-color: #ff9900;
+    color: #ffffff;
+}
+.label-gray {
+    background-color: #333333;
+    color: #ffffff;
+}
+.btn-gray {
+    background-color: #333333;
+    color: #ffffff;
+}
+.pdf_back {
+    background-color: #333333;
+}
